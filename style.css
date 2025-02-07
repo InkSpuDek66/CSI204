@@ -1,5 +1,7 @@
 *{
     font-family: cursive;
-    font-size: larger;
     color: crimson;
+}
+p{
+    font-size: larger;
 }
